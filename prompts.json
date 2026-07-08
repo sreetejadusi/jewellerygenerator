@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Studio Close-up Product Shot",
+    "prompt": "Create a premium luxury studio product photograph of the uploaded jewellery.\n\nPlace it on a clean background that complements the jewellery.\n\nUse soft diffused lighting with realistic reflections and subtle shadows.\n\nThe jewellery should occupy most of the frame.\n\nPhotographed using a professional macro lens.\n\nExtremely sharp focus.\n\nLuxury commercial catalogue quality.\n\nMinimal composition.\n\nNo props.\n\nNo human.\n\nNo additional jewellery.\n\nBackground should never overpower the product.\n\nThe jewellery must remain exactly identical to the uploaded image.\n\nUse for:\nShopify\nAmazon\nFlipkart\nEtsy\nCatalogs"
+  },
+  {
+    "id": "2",
+    "name": "Lifestyle Product Scene",
+    "prompt": "Create a luxury lifestyle product photograph featuring the uploaded jewellery.\n\nSelect a suitable environment automatically based on the jewellery type.\n\nExamples:\nElegant marble vanity\nLuxury wooden table\nMinimal Scandinavian home\nWedding preparation\nFine dining\nCoffee shop\nLuxury hotel\nDesigner workspace\nGarden brunch\nFestive celebration\n\nThe scene should naturally match:\n- jewellery style\n- target audience\n- age\n- gender\n- fashion style\n- occasion\n\nThe jewellery remains the hero of the image.\n\nUse premium natural lighting.\n\nLuxury editorial photography.\n\nPhotorealistic.\n\nNo unrealistic poses.\n\nNo distortion.\n\nDo not modify the jewellery.\n\nThe AI should infer the environment automatically."
+  },
+  {
+    "id": "3",
+    "name": "Jewellery Worn by Model",
+    "prompt": "Create a professional fashion photograph where the uploaded jewellery is being worn naturally by a suitable model.\n\nAutomatically determine:\n- gender\n- age group\n- ethnicity\n- clothing\n- makeup\n- hairstyle\n- fashion style\n\nbased on the jewellery.\n\nThe jewellery must fit naturally.\n\nCorrect scale.\n\nCorrect perspective.\n\nLuxury fashion photography.\n\nNatural expressions.\n\nElegant posing.\n\nSoft premium lighting.\n\nThe jewellery must remain exactly identical to the uploaded image.\n\nNo additional jewellery that competes with the product."
+  }
+]
